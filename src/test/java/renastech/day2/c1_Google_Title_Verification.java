@@ -33,8 +33,5 @@ public class c1_Google_Title_Verification {
         }
         System.out.println("Browser title is:"+ actualTitle);
 
-
-
-
     }
 }

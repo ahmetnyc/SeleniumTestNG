@@ -22,10 +22,5 @@ public class c2_browserNavigation {
        // driver.close();
         driver.quit();
 
-
-
-
-
-
     }
 }
