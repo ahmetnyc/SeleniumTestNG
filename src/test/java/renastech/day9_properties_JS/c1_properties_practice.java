@@ -1,6 +1,6 @@
 package renastech.day9_properties_JS;
 
-import org.openqa.selenium.firefox.FirefoxDriver;
+
 import org.testng.annotations.Test;
 
 import java.io.FileInputStream;
@@ -40,6 +40,4 @@ public class c1_properties_practice {
         System.out.println(properties.getProperty("SmartBear_username"));
 
     }
-
-
 }

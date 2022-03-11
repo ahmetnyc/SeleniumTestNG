@@ -1,7 +1,7 @@
 package renastech.utilities;
 
 public class BrowserUtils {
-    //      create an utility method called wait
+    //    create an utility method called wait
     //    //static method   so i can call by using class name
     //    //return type void
     //    //parameter should be int second

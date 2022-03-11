@@ -23,6 +23,4 @@ public abstract class TestBase2 {
       //  DriverUtil.closeDriver();
 
     }
-
-
 }

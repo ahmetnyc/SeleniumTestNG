@@ -28,11 +28,4 @@ public class SeleniumPracticeExplicitlyWaitPage extends BasePage {
         return webDriverText;
 
     }
-
-
-
-
-
-
-
 }

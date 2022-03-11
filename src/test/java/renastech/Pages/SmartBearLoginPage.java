@@ -30,14 +30,8 @@ public class SmartBearLoginPage extends BasePage{
         loginButton.click();
     }
 
-
         public String getStatusMessage(){
         return statusMessage.getText();
         }
-
-
-
-
-
 
 }

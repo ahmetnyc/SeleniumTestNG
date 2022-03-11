@@ -24,11 +24,6 @@ public class c1_Locators {
         //Classname Locator
         driver.findElement(By.className("gb_d")).click();
 
-
-
-
-
-
-
-    }}
+    }
+}
 

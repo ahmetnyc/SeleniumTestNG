@@ -24,6 +24,4 @@ public class TestBase {
         BrowserUtils.wait(3);
        // driver.close();
     }
-
-
 }

@@ -27,16 +27,10 @@ public class PropertiesReadingUtil {
             e.printStackTrace();
             System.out.println("Properties File Not founded");
         }
-
-
-
     }
 
     public static String getProperties(String keyword){
         return properties.getProperty(keyword);
     }
-
-
-
 
 }
