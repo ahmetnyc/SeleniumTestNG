@@ -8,8 +8,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxOptions;
 
 public class DriverUtil {
-//to be able to achive singelton design pattern we will need to have private constructor
-// no one can be able to create object from this class beacause we are making constructor priavate .
+//to be able to achieve singleton design pattern we will need to have private constructor
+// no one can be able to create object from this class because we are making constructor private .
 
     private DriverUtil(){
 

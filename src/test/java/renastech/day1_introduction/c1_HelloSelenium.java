@@ -16,6 +16,7 @@ public class c1_HelloSelenium {
         driver.get("https://www.google.com/");
         driver.manage().window().maximize();
         System.out.println("Current Url is:"+ driver.getCurrentUrl());
+        
 
     }
 }
